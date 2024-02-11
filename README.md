@@ -5,10 +5,10 @@
 
 <h3>Requirements:
   <p>
--Use any large language model of your choice.
--Incorporate a web search/scraping tool for obtaining news articles.
--Execute the code in a Jupyter notebook or any IDE of your preference.
--Attach the code file along with screenshots demonstrating the outputs.
+- Use any large language model of your choice.
+- Incorporate a web search/scraping tool for obtaining news articles.
+- Execute the code in a Jupyter notebook or any IDE of your preference.
+- Attach the code file along with screenshots demonstrating the outputs.
 </p>
 
 <h3>Environment Details:
