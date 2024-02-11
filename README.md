@@ -4,12 +4,11 @@
 <p>Create a news search agent using any large language model and a web search/scraping tool of your choice. The agent should be capable of providing the latest news, along with links to relevant articles, based on the user's search query.</p>
 
 <h3>Requirements:
-  <p>
 - Use any large language model of your choice.
 - Incorporate a web search/scraping tool for obtaining news articles.
 - Execute the code in a Jupyter notebook or any IDE of your preference.
 - Attach the code file along with screenshots demonstrating the outputs.
-</p>
+
 
 <h3>Environment Details:
 
