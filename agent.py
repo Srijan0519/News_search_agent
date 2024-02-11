@@ -5,7 +5,7 @@ import json
 
 def get_news_results(keyword, max_pages=10):
     params = {
-        "api_key": "f9186e8664a543ac319b4cbdeb0e991229ee7a90988f0b1328b02d81624489c3",
+        "api_key": "some_key",
         "engine": "google",
         "q": keyword,
         "location": "Austin, Texas, United States",
