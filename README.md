@@ -23,6 +23,8 @@
 - <b>Deployment</b>: The st.json(results) line displays the fetched news results in a JSON format on the web page. When the code is run on Streamlit, it provides a simple web interface where users can input a news keyword, click the "Search" button, and see the related news results displayed on the page.
 
 <h3> Output</h3><br>
-![GitHub Logo](https://github.com/Srijan0519/News_search_agent/blob/main/Screenshots/streamlit%20deployed.jpg?raw=true)<br>
-![GitHub Logo](https://github.com/Srijan0519/News_search_agent/blob/main/Screenshots/terminal%20ss.jpg?raw=true)
+
+![output1](https://github.com/Srijan0519/News_search_agent/blob/main/Screenshots/streamlit%20deployed.jpg?raw=true)
+
+![output2](https://github.com/Srijan0519/News_search_agent/blob/main/Screenshots/terminal%20ss.jpg?raw=true)
 
